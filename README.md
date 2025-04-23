@@ -38,7 +38,7 @@ Create a "Virtual Machine(VM)" with Azure to run this lab. Use "Remote Desktop" 
 <img src="https://imgur.com/n9ibcLa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install/Enable Internet "Internet Information Services" with CGI (IIS) in Windows via control panel --> programs --> Turn Windows features on or off --> check box titled "Internet Information Services"; with that box checked, click on the "+" icon next to the ISS file icon, then navigate to World Wide Web Services -> Application Development Features -> CGI; check the box next to "CGI"; IIS is a Windows server on which OsTicket must be enabled to run properly, even though OsTicket runs through a web browser.
+Install/Enable Internet "Internet Information Services"(IIS) with CGI in Windows via control panel --> programs --> Turn Windows features on or off --> check box titled "Internet Information Services"; with that box checked, click on the "+" icon next to the ISS file icon, then navigate to World Wide Web Services -> Application Development Features -> CGI; check the box next to "CGI"; IIS is a Windows server on which OsTicket must be enabled to run properly, even though OsTicket runs through a web browser.
 </p>
 <br />
 
