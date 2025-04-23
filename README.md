@@ -6,7 +6,7 @@
 
 # Microsoft Azure osTicket
 
-Microsoft Azure is a powerful tool in the IT sphere, along with OsTicket and its familiar programs. OsTicket is quite tricky to set up, but with the aid of the wiki [it is located in this repository.](https://github.com/shoganaich/azure-osticket/wiki)
+Microsoft Azure is a powerful tool in the IT sphere, along with OsTicket and its familiar programs. OsTicket is quite tricky to set up, but with the aid of the wiki [it is located in this repository.]([https://github.com/shoganaich/azure-osticket/wiki](https://github.com/shoganaich/azure-osticket/wiki/2.-osTicket-Installation))
 
 # Before you set off on your journey, take these with you
 - Visual C++ Redistributable : https://aka.ms/vs/17/release/vc_redist.x64.exe
