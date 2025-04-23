@@ -4,7 +4,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-# Microsoft Azure osTicket Setup
+# Microsoft Azure osTicket
 
 Microsoft Azure is a powerful tool in the IT sphere, along with OsTicket and its familiar programs. OsTicket is quite tricky to set up, but with the aid of the wiki [it is located in this repository.](https://github.com/shoganaich/azure-osticket/wiki)
 
